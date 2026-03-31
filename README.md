@@ -10,6 +10,10 @@ Programming is straightforward thanks to the dedicated 3-pin SWIO header, making
 Also includes a TVS diode for input protection, and convenient power is provided through a 6-pin USB-C connector, ensuring easy integration into modern setups.
 Ideal for breadboard experimentation, small projects, or as a compact development platform for the CH32V003 series.
 
+<img width="379" height="300" alt="top" src="https://github.com/user-attachments/assets/f85a6711-8901-43cf-a667-86d5aaaffef6" /> <img width="352" height="300" alt="back" src="https://github.com/user-attachments/assets/36252a41-1364-4047-87d5-217d2d3f52c4" />
+
+
+
 ## Programming
 
 **To program this board, you will need a WCH-LinkE programmer. Be sure you buy the correct one (with the letter "E" at the end)**
