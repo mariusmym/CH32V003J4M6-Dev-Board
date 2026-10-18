@@ -34,7 +34,7 @@ You will also have to install the drivers that can be found here https://github.
 
 ## If you want to edit the PCB
  
-**Project can also be found here:** [https://oshwlab.com/mariusmym/attiny1616_vcnl4200_rgb_controller](https://oshwlab.com/mariusmym/ch32v0033j4m6-dev-board)
+**Project can also be found here:** [https://oshwlab.com/mariusmym/ch32v0033j4m6-dev-board](https://oshwlab.com/mariusmym/ch32v0033j4m6-dev-board)
 
 
 ## License 
