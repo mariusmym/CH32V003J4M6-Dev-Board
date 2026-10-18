@@ -1,8 +1,7 @@
 # CH32V003J4M6-Dev-Board
-Basic CH32V003J4M6 Dev Board
+A breakout for the 8-pin RISC-V MCU that costs less than the coffee you’ll drink debugging it. USB-C power, SWIO programming, breadboard friendly.
 
-CH32V003J4M6 Dev Board designed for easy prototyping and reliable use.
-It breaks out all MCU pins for maximum flexibility, while keeping a clean and minimal footprint.
+It breaks out all MCU pins for maximum flexibility, while keeping a minimal footprint.
 
 An onboard debug / status **LED on PC4** can be enabled or completely disconnected via a solder jumper, giving you full control over pin usage.
 Programming is straightforward thanks to the dedicated 3-pin SWIO header, making it fully compatible with standard WCH debugging tools.
