@@ -12,7 +12,15 @@ Ideal for breadboard experimentation, small projects, or as a compact developmen
 
 <img width="379" height="300" alt="top" src="https://github.com/user-attachments/assets/f85a6711-8901-43cf-a667-86d5aaaffef6" /> <img width="352" height="300" alt="back" src="https://github.com/user-attachments/assets/36252a41-1364-4047-87d5-217d2d3f52c4" />
 
+## Pinout
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Img/CH32V003J4M6_pinout_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="Img/CH32V003J4M6_pinout.png">
+  <img alt="CH32V003J4M6 pinout" src="Img/CH32V003J4M6_pinout.png">
+</picture>
+
+Solid labels are default functions, dashed labels are alternate (remapped) functions. Pin 1 is shared by PA1 and PD6, and pin 8 by PD1 (SWIO), PD4 and PD5. Vector versions: [light](Img/CH32V003J4M6_pinout.svg) · [dark](Img/CH32V003J4M6_pinout_dark.svg).
 
 ## Programming
 
