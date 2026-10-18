@@ -32,4 +32,20 @@ You will also have to install the drivers that can be found here https://github.
 
 **Also don't forget, before connecting the programmer to your PC, make sure to press the MODE_S button on the WCH-LinkE to switch it into the correct mode (the one where the blue LED is off).**
 
+## If you want to edit the PCB
+ 
+**Project can also be found here:** [[https://oshwlab.com/mariusmym/attiny1616_vcnl4200_rgb_controller](https://oshwlab.com/mariusmym/ch32v0033j4m6-dev-board)
+
+
+## License 
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This project is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+- ✅ **Share** – copy and redistribute it in any medium or format
+- ✅ **Adapt** – remix, transform, and build upon it
+- 🏷️ **Attribution** – give credit and link back here
+- 🔁 **ShareAlike** – if you remix it, share your version under the same license
+
 Have fun !
